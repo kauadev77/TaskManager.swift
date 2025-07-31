@@ -2,54 +2,6 @@ Gerenciador de Tarefas em Swift
 
 Um aplicativo de linha de comando desenvolvido em Swift para gerenciar tarefas. Permite adicionar, remover, listar e alterar tarefas de forma interativa através de um menu.
 
-Como Executar
-
-
-
-
-
-Pré-requisitos:
-
-
-
-
-
-Swift 5.0 ou superior instalado.
-
-
-
-Ambiente de desenvolvimento: Xcode ou terminal com compilador Swift.
-
-
-
-Instruções:
-
-
-
-
-
-Clone o repositório:
-
-git clone https://github.com/kauadev77/task-manager-swift.git
-
-
-
-Navegue até a pasta do projeto:
-
-cd task-manager-swift
-
-
-
-Execute o programa:
-
-swift projeto.swift
-
-
-
-Alternativamente, abra o arquivo projeto.swift no Xcode e clique em "Run".
-
-
-
 Uso:
 
 
