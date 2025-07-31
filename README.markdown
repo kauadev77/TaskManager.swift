@@ -6,28 +6,7 @@ Um aplicativo de linha de comando desenvolvido em Swift para gerenciar tarefas. 
 
 Este projeto foi desenvolvido como parte do curso **Lógica de Programação Baseada em Swift**, oferecido pelo programa **TIC em Trilhas** em parceria com a **Universidade Presbiteriana Mackenzie**. O objetivo foi aplicar conceitos fundamentais de programação, como manipulação de arrays e entrada/saída, em um projeto prático.
 
-## Como Executar
-
-1. **Pré-requisitos**:
-   - Swift 5.0 ou superior instalado.
-   - Ambiente de desenvolvimento: Xcode ou terminal com compilador Swift.
-
-2. **Instruções**:
-   - Clone o repositório:
-     ```bash
-     git clone https://github.com/kauadev77/task-manager-swift.git
-     ```
-   - Navegue até a pasta do projeto:
-     ```bash
-     cd task-manager-swift
-     ```
-   - Execute o programa:
-     ```bash
-     swift projeto.swift
-     ```
-   - Alternativamente, abra o arquivo `projeto.swift` no Xcode e clique em "Run".
-
-3. **Uso**:
+**Uso**:
    - Siga o menu interativo para gerenciar suas tarefas:
      - **1**: Adicionar uma nova tarefa.
      - **2**: Remover uma tarefa existente.
